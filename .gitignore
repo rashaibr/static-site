@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore the ".idea" folder
+.idea/
+
+# Ignore the "secret-passwords.txt" file
+secret-passwords.txt
+ 
